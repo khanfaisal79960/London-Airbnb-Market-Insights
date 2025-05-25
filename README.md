@@ -46,6 +46,3 @@
 
   <h2>🔗 Dataset Source</h2>
   <p>You can find the original dataset at: <a href="http://insideairbnb.com/get-the-data.html" target="_blank">Inside Airbnb - Get the Data</a></p>
-
-  <h2>📬 Contact</h2>
-  <p>For any questions or feedback, feel free to reach out:</p>
